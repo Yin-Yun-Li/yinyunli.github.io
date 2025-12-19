@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Yin-Yun Li"
@@ -10,10 +11,10 @@ website:
         href: index.qmd
       - text: Research
         href: about.qmd
-      # - text: CV
-      #   href: cv.pdf
-      # - text: Notes
-      #   href: notes.qmd
+      - text: CV
+        href: cv.pdf
+      - text: Notes
+        href: notes.qmd
 
 format:
   html:

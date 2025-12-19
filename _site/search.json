@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to My Website",
+    "section": "",
+    "text": "This is the homepage of my Quarto website. I am currently working on some tests.\nCheck out the pages in the navigation bar!"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Undergraduate student at Department of Economics, NTU"
+  }
+]
